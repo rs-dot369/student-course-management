@@ -17,12 +17,14 @@ A sleek and efficient Java-based desktop application designed to streamline stud
 ## 🛠️ Tech Stack & Tools
 * **Language:** Java (JDK 17+)
 * **GUI Framework:** [Swing]
+* **Database:** MySQL
 * **IDE:** IntelliJ IDEA
 * **Operating System:** Windows 10 / 11
 
 ## 📦 Prerequisites
 Before running this project locally, ensure you have the following installed:
 * [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) (Version 17 or higher recommended)
+* MySQL running on port 3308 (port can be edited in source code)
 * An IDE such as IntelliJ IDEA or Eclipse (Optional, but recommended)
 
 ## 🔧 Installation & Setup
